@@ -1,0 +1,212 @@
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 Sep14 ?        00:00:11 /sbin/init
+root           2       0  0 Sep14 ?        00:00:00 [kthreadd]
+root           3       2  0 Sep14 ?        00:00:00 [rcu_gp]
+root           4       2  0 Sep14 ?        00:00:00 [rcu_par_gp]
+root           5       2  0 Sep14 ?        00:00:00 [slub_flushwq]
+root           6       2  0 Sep14 ?        00:00:00 [netns]
+root           8       2  0 Sep14 ?        00:00:00 [kworker/0:0H-events_highpri]
+root          10       2  0 Sep14 ?        00:00:00 [mm_percpu_wq]
+root          11       2  0 Sep14 ?        00:00:00 [rcu_tasks_rude_]
+root          12       2  0 Sep14 ?        00:00:00 [rcu_tasks_trace]
+root          13       2  0 Sep14 ?        00:00:00 [ksoftirqd/0]
+root          14       2  0 Sep14 ?        00:00:06 [rcu_sched]
+root          15       2  0 Sep14 ?        00:00:00 [migration/0]
+root          16       2  0 Sep14 ?        00:00:00 [idle_inject/0]
+root          18       2  0 Sep14 ?        00:00:00 [cpuhp/0]
+root          19       2  0 Sep14 ?        00:00:00 [cpuhp/1]
+root          20       2  0 Sep14 ?        00:00:00 [idle_inject/1]
+root          21       2  0 Sep14 ?        00:00:00 [migration/1]
+root          22       2  0 Sep14 ?        00:00:00 [ksoftirqd/1]
+root          24       2  0 Sep14 ?        00:00:00 [kworker/1:0H-events_highpri]
+root          25       2  0 Sep14 ?        00:00:00 [cpuhp/2]
+root          26       2  0 Sep14 ?        00:00:00 [idle_inject/2]
+root          27       2  0 Sep14 ?        00:00:00 [migration/2]
+root          28       2  0 Sep14 ?        00:00:00 [ksoftirqd/2]
+root          30       2  0 Sep14 ?        00:00:00 [kworker/2:0H-events_highpri]
+root          31       2  0 Sep14 ?        00:00:00 [cpuhp/3]
+root          32       2  0 Sep14 ?        00:00:00 [idle_inject/3]
+root          33       2  0 Sep14 ?        00:00:00 [migration/3]
+root          34       2  0 Sep14 ?        00:00:00 [ksoftirqd/3]
+root          36       2  0 Sep14 ?        00:00:00 [kworker/3:0H-events_highpri]
+root          37       2  0 Sep14 ?        00:00:00 [kdevtmpfs]
+root          38       2  0 Sep14 ?        00:00:00 [inet_frag_wq]
+root          42       2  0 Sep14 ?        00:00:00 [kauditd]
+root          43       2  0 Sep14 ?        00:00:00 [khungtaskd]
+root          44       2  0 Sep14 ?        00:00:00 [oom_reaper]
+root          45       2  0 Sep14 ?        00:00:00 [writeback]
+root          46       2  0 Sep14 ?        00:00:02 [kcompactd0]
+root          47       2  0 Sep14 ?        00:00:00 [ksmd]
+root          48       2  0 Sep14 ?        00:00:00 [khugepaged]
+root          94       2  0 Sep14 ?        00:00:00 [kintegrityd]
+root          95       2  0 Sep14 ?        00:00:00 [kblockd]
+root          96       2  0 Sep14 ?        00:00:00 [blkcg_punt_bio]
+root          97       2  0 Sep14 ?        00:00:00 [tpm_dev_wq]
+root          98       2  0 Sep14 ?        00:00:00 [ata_sff]
+root          99       2  0 Sep14 ?        00:00:00 [md]
+root         100       2  0 Sep14 ?        00:00:00 [edac-poller]
+root         101       2  0 Sep14 ?        00:00:00 [devfreq_wq]
+root         102       2  0 Sep14 ?        00:00:00 [watchdogd]
+root         104       2  0 Sep14 ?        00:00:00 [kworker/0:1H-kblockd]
+root         105       2  0 Sep14 ?        00:00:00 [kswapd0]
+root         106       2  0 Sep14 ?        00:00:00 [ecryptfs-kthrea]
+root         108       2  0 Sep14 ?        00:00:00 [kthrotld]
+root         109       2  0 Sep14 ?        00:00:00 [irq/49-ACPI:Ged]
+root         110       2  0 Sep14 ?        00:00:00 [acpi_thermal_pm]
+root         112       2  0 Sep14 ?        00:00:00 [mld]
+root         113       2  0 Sep14 ?        00:00:00 [kworker/1:1H-kblockd]
+root         114       2  0 Sep14 ?        00:00:00 [ipv6_addrconf]
+root         123       2  0 Sep14 ?        00:00:00 [kstrp]
+root         126       2  0 Sep14 ?        00:00:00 [zswap-shrink]
+root         127       2  0 Sep14 ?        00:00:00 [kworker/u9:0]
+root         131       2  0 Sep14 ?        00:00:00 [cryptd]
+root         169       2  0 Sep14 ?        00:00:00 [charger_manager]
+root         219       2  0 Sep14 ?        00:00:00 [kworker/3:1H-kblockd]
+root         221       2  0 Sep14 ?        00:00:00 [kworker/2:1H-kblockd]
+root         231       2  0 Sep14 ?        00:00:00 [hwrng]
+root         280       2  0 Sep14 ?        00:00:00 [kdmflush]
+root         309       2  0 Sep14 ?        00:00:00 [raid5wq]
+root         366       2  0 Sep14 ?        00:00:02 [jbd2/dm-0-8]
+root         367       2  0 Sep14 ?        00:00:00 [ext4-rsv-conver]
+root         443       1  0 Sep14 ?        00:00:05 /lib/systemd/systemd-journald
+root         480       2  0 Sep14 ?        00:00:00 [kaluad]
+root         482       2  0 Sep14 ?        00:00:00 [kmpath_rdacd]
+root         483       2  0 Sep14 ?        00:00:00 [kmpathd]
+root         484       2  0 Sep14 ?        00:00:00 [kmpath_handlerd]
+root         486       1  0 Sep14 ?        00:00:07 /sbin/multipathd -d -s
+root         489       1  0 Sep14 ?        00:00:00 /lib/systemd/systemd-udevd
+root         582       2  0 Sep14 ?        00:00:00 [scsi_eh_0]
+root         583       2  0 Sep14 ?        00:00:00 [scsi_tmf_0]
+root         584       2  0 Sep14 ?        00:00:06 [usb-storage]
+root         603       2  0 Sep14 ?        00:00:00 [uas]
+root         638       2  0 Sep14 ?        00:00:00 [jbd2/vda2-8]
+root         639       2  0 Sep14 ?        00:00:00 [ext4-rsv-conver]
+systemd+     679       1  0 Sep14 ?        00:00:56 /lib/systemd/systemd-oomd
+systemd+     681       1  0 Sep14 ?        00:00:01 /lib/systemd/systemd-timesyncd
+systemd+     735       1  0 Sep14 ?        00:00:00 /lib/systemd/systemd-networkd
+systemd+     737       1  0 Sep14 ?        00:00:00 /lib/systemd/systemd-resolved
+avahi        759       1  0 Sep14 ?        00:00:06 avahi-daemon: running [ubuntu-vm.local]
+message+     760       1  0 Sep14 ?        00:00:03 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         761       1  0 Sep14 ?        00:00:04 /usr/sbin/NetworkManager --no-daemon
+root         765       1  0 Sep14 ?        00:00:08 /usr/sbin/irqbalance --foreground
+root         767       1  0 Sep14 ?        00:00:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         768       1  0 Sep14 ?        00:00:01 /usr/libexec/polkitd --no-debug
+root         769       1  0 Sep14 ?        00:00:00 /usr/libexec/power-profiles-daemon
+syslog       770       1  0 Sep14 ?        00:00:00 /usr/sbin/rsyslogd -n -iNONE
+root         774       1  0 Sep14 ?        00:00:03 /usr/libexec/accounts-daemon
+root         775       1  0 Sep14 ?        00:00:00 /usr/libexec/switcheroo-control
+root         776       1  0 Sep14 ?        00:00:00 /lib/systemd/systemd-logind
+root         777       1  0 Sep14 ?        00:00:00 /usr/libexec/udisks2/udisksd
+root         778       1  0 Sep14 ?        00:00:01 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        787     759  0 Sep14 ?        00:00:00 avahi-daemon: chroot helper
+root         818       1  0 Sep14 ?        00:00:00 /usr/sbin/ModemManager
+root         823       1  0 Sep14 ?        00:00:00 /usr/sbin/cupsd -l
+root         836       1  0 Sep14 ?        00:00:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+lp           854     823  0 Sep14 ?        00:00:00 /usr/lib/cups/notifier/dbus dbus://
+root         862       1  0 Sep14 ?        00:00:00 /usr/sbin/cups-browsed
+root         864       1  0 Sep14 ?        00:00:00 /usr/sbin/cron -f -P
+kernoops     873       1  0 Sep14 ?        00:00:00 /usr/sbin/kerneloops --test
+kernoops     881       1  0 Sep14 ?        00:00:00 /usr/sbin/kerneloops
+root         882       1  0 Sep14 ?        00:00:00 /sbin/agetty -o -p -- \u --keep-baud 115200,57600,38400,9600 ttyAMA0 vt220
+root         888       1  0 Sep14 ?        00:00:00 sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups
+root         896       1  0 Sep14 ?        00:00:00 /usr/sbin/gdm3
+rtkit       1075       1  0 Sep14 ?        00:00:01 /usr/libexec/rtkit-daemon
+root        1189       1  0 Sep14 ?        00:00:00 /usr/libexec/upowerd
+root        1217       1  0 Sep14 ?        00:00:10 /usr/libexec/packagekitd
+colord      1383       1  0 Sep14 ?        00:00:00 /usr/libexec/colord
+root        1403       1  0 Sep14 ?        00:00:07 /usr/sbin/spice-vdagentd
+root        1441     896  0 Sep14 ?        00:00:00 gdm-session-worker [pam/gdm-password]
+harshit+    1448       1  0 Sep14 ?        00:00:03 /lib/systemd/systemd --user
+harshit+    1449    1448  0 Sep14 ?        00:00:00 (sd-pam)
+harshit+    1455    1448  0 Sep14 ?        00:00:00 /usr/bin/pipewire
+harshit+    1456    1448  0 Sep14 ?        00:00:00 /usr/bin/pipewire-media-session
+harshit+    1457    1448  0 Sep14 ?        00:00:01 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+harshit+    1461    1448  0 Sep14 ?        00:00:05 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+harshit+    1463       1  0 Sep14 ?        00:00:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+harshit+    1467    1448  0 Sep14 ?        00:00:00 /usr/libexec/gvfsd
+harshit+    1474    1441  0 Sep14 tty2     00:00:00 /usr/libexec/gdm-wayland-session env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --session=ubuntu
+harshit+    1476    1448  0 Sep14 ?        00:00:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+harshit+    1487    1474  0 Sep14 tty2     00:00:00 /usr/libexec/gnome-session-binary --session=ubuntu
+harshit+    1535    1448  0 Sep14 ?        00:00:00 /usr/libexec/gnome-session-ctl --monitor
+harshit+    1571    1448  0 Sep14 ?        00:00:00 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+harshit+    1585    1571  0 Sep14 ?        00:00:00 /usr/libexec/at-spi-bus-launcher --launch-immediately
+harshit+    1588    1448  2 Sep14 ?        00:06:43 /usr/bin/gnome-shell
+harshit+    1596    1585  0 Sep14 ?        00:00:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus
+harshit+    1619    1448  0 Sep14 ?        00:00:00 /usr/libexec/xdg-permission-store
+harshit+    1620    1448  0 Sep14 ?        00:00:00 /usr/libexec/gnome-shell-calendar-server
+harshit+    1629    1448  0 Sep14 ?        00:00:00 /usr/libexec/evolution-source-registry
+harshit+    1633    1448  0 Sep14 ?        00:00:00 /usr/libexec/dconf-service
+harshit+    1638    1448  0 Sep14 ?        00:00:00 /usr/libexec/goa-daemon
+harshit+    1639    1448  0 Sep14 ?        00:00:00 /usr/libexec/gvfs-udisks2-volume-monitor
+harshit+    1644    1448  0 Sep14 ?        00:00:00 /usr/libexec/gvfs-goa-volume-monitor
+harshit+    1648    1448  0 Sep14 ?        00:00:00 /usr/libexec/evolution-calendar-factory
+harshit+    1656    1448  0 Sep14 ?        00:00:00 /usr/libexec/goa-identity-service
+harshit+    1660    1448  0 Sep14 ?        00:00:00 /usr/libexec/gvfs-mtp-volume-monitor
+harshit+    1669    1448  0 Sep14 ?        00:00:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+harshit+    1673    1448  0 Sep14 ?        00:00:03 /usr/libexec/gvfs-afc-volume-monitor
+harshit+    1684    1448  0 Sep14 ?        00:00:00 /usr/libexec/evolution-addressbook-factory
+harshit+    1700    1467  0 Sep14 ?        00:00:00 /usr/libexec/gvfsd-trash --spawner :1.2 /org/gtk/gvfs/exec_spaw/0
+harshit+    1706    1448  0 Sep14 ?        00:00:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+harshit+    1708    1448  0 Sep14 ?        00:00:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+harshit+    1721    1448  0 Sep14 ?        00:00:00 sh -c /usr/bin/ibus-daemon --panel disable $([ "$XDG_SESSION_TYPE" = "x11" ] && echo "--xim")
+harshit+    1722    1448  0 Sep14 ?        00:00:00 /usr/libexec/gsd-a11y-settings
+harshit+    1724    1448  0 Sep14 ?        00:00:02 /usr/libexec/gsd-color
+harshit+    1726    1448  0 Sep14 ?        00:00:00 /usr/libexec/gsd-datetime
+harshit+    1727    1448  0 Sep14 ?        00:00:03 /usr/libexec/gsd-housekeeping
+harshit+    1728    1448  0 Sep14 ?        00:00:00 /usr/libexec/gsd-keyboard
+harshit+    1729    1448  0 Sep14 ?        00:00:01 /usr/libexec/gsd-media-keys
+harshit+    1730    1448  0 Sep14 ?        00:00:00 /usr/libexec/gsd-power
+harshit+    1732    1448  0 Sep14 ?        00:00:00 /usr/libexec/gsd-print-notifications
+harshit+    1736    1721  0 Sep14 ?        00:00:08 /usr/bin/ibus-daemon --panel disable
+harshit+    1740    1448  0 Sep14 ?        00:00:00 /usr/libexec/gsd-rfkill
+harshit+    1744    1448  0 Sep14 ?        00:00:00 /usr/libexec/gsd-screensaver-proxy
+harshit+    1745    1448  0 Sep14 ?        00:00:00 /usr/libexec/gsd-sharing
+harshit+    1746    1448  0 Sep14 ?        00:00:00 /usr/libexec/gsd-smartcard
+harshit+    1747    1448  0 Sep14 ?        00:00:00 /usr/libexec/gsd-sound
+harshit+    1756    1448  0 Sep14 ?        00:00:00 /usr/libexec/gsd-wacom
+harshit+    1799    1448  0 Sep14 ?        00:00:01 /usr/bin/spice-vdagent
+harshit+    1816    1448  0 Sep14 ?        00:00:00 /usr/libexec/gsd-printer
+harshit+    1827    1588  0 Sep14 ?        00:00:01 /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.Z0H5A2 -listen 4 -listen 5 -displayfd 6 -initfd 7
+harshit+    1832    1736  0 Sep14 ?        00:00:00 /usr/libexec/ibus-dconf
+harshit+    1833    1736  0 Sep14 ?        00:00:03 /usr/libexec/ibus-extension-gtk3
+harshit+    1839    1448  0 Sep14 ?        00:00:00 /usr/libexec/ibus-portal
+harshit+    1852    1448  0 Sep14 ?        00:00:05 /usr/libexec/xdg-desktop-portal
+harshit+    1853    1736  0 Sep14 ?        00:00:02 /usr/libexec/ibus-engine-simple
+harshit+    1861    1448  0 Sep14 ?        00:00:05 /usr/libexec/tracker-miner-fs-3
+harshit+    1864    1448  0 Sep14 ?        00:00:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.ScreenSaver
+harshit+    1867    1448  0 Sep14 ?        00:00:00 /usr/libexec/gsd-xsettings
+harshit+    1878    1448  0 Sep14 ?        00:00:00 /usr/libexec/xdg-document-portal
+root        1891    1878  0 Sep14 ?        00:00:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+harshit+    1902    1448  0 Sep14 ?        00:00:01 /usr/libexec/xdg-desktop-portal-gnome
+harshit+    1938    1448  0 Sep14 ?        00:00:00 /usr/libexec/ibus-x11
+harshit+    1980    1571  0 Sep14 ?        00:00:01 /usr/libexec/evolution-data-server/evolution-alarm-notify
+harshit+    2012    1571  0 Sep14 ?        00:00:00 /usr/libexec/gsd-disk-utility-notify
+harshit+    2058    1448  0 Sep14 ?        00:00:00 /usr/libexec/xdg-desktop-portal-gtk
+harshit+    2107    1448  0 Sep14 ?        00:00:00 /usr/libexec/gvfsd-metadata
+root        2114       1  0 Sep14 ?        00:00:00 /usr/libexec/ubuntu-advantage-desktop-daemon
+harshit+    2218    1571  0 Sep14 ?        00:00:08 update-notifier
+harshit+    2290    1448  0 Sep14 ?        00:00:02 /usr/bin/gnome-calendar --gapplication-service
+harshit+    2294    1448  0 Sep14 ?        00:00:00 /usr/bin/seahorse --gapplication-service
+root        3530       1  0 Sep14 ?        00:00:07 /usr/libexec/fwupd/fwupd
+root        3743       1  0 Sep14 ?        00:00:00 gpg-agent --homedir /var/lib/fwupd/gnupg --use-standard-socket --daemon
+root        5051       2  0 00:26 ?        00:00:03 [kworker/0:1-events]
+root        5144       2  0 00:43 ?        00:00:00 [kworker/1:0-events]
+harshit+    5436    1588  0 01:27 ?        00:00:05 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com -M 0 -D 0:0:1280:765:1:27:0:0:0:0
+harshit+    5487    1463  0 01:28 ?        00:00:00 /usr/bin/ssh-agent -D -a /run/user/1000/keyring/.ssh
+root        5494       2  0 01:28 ?        00:00:00 [kworker/3:2-events]
+root        5804       2  0 01:43 ?        00:00:00 [kworker/3:0-events]
+root        5924       2  0 01:44 ?        00:00:00 [kworker/2:2-events]
+root        5925       2  0 01:44 ?        00:00:00 [kworker/2:3-events]
+root        6311       2  0 01:49 ?        00:00:00 [kworker/u8:2-events_unbound]
+root        6600       2  0 01:55 ?        00:00:00 [kworker/u8:1-events_unbound]
+root        6742       1  0 01:55 ?        00:00:02 /usr/lib/snapd/snapd
+root        7151       2  0 01:56 ?        00:00:00 [kworker/1:2-mm_percpu_wq]
+root        7161       2  0 02:00 ?        00:00:00 [kworker/0:0-events]
+root        7163       2  0 02:00 ?        00:00:00 [kworker/u8:0-events_unbound]
+root        7175       2  0 02:04 ?        00:00:00 [kworker/u8:3]
+root        7176       2  0 02:04 ?        00:00:00 [kworker/u8:4-flush-253:0]
+harshit+    7185    1448  0 02:04 ?        00:00:01 /usr/libexec/gnome-terminal-server
+harshit+    7248    7185  0 02:04 pts/0    00:00:00 bash
+root        7330       2  0 02:05 ?        00:00:00 [kworker/0:2-events]
+root        7340       2  0 02:06 ?        00:00:00 [kworker/1:1-events]
+harshit+    7870    7248  0 02:08 pts/0    00:00:00 ps -ef
