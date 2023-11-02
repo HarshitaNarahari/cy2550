@@ -39,4 +39,3 @@ olympicwire:1234
 dubyabot:zxcvbnm
 infiguard:qazwsx
 acetylesorc:ncc1701
-softieli:fund3r
